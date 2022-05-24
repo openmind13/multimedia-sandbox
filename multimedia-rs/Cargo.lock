@@ -4,9 +4,9 @@ version = 3
 
 [[package]]
 name = "ac-ffmpeg"
-version = "0.17.1"
+version = "0.17.4"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "030b5f1018ccd6d59cfb9a531d4c63d8e3d159686a171f6c041dfc2a8c702769"
+checksum = "d6c84aa511f4de0d0be5f78b1d3fc6b76d191d4dd89a451a1f692ad42699fd08"
 dependencies = [
  "cc",
  "lazy_static",
@@ -15,9 +15,9 @@ dependencies = [
 
 [[package]]
 name = "cc"
-version = "1.0.71"
+version = "1.0.73"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "79c2681d6594606957bbb8631c4b90a7fcaaa72cdb714743a437b156d6a7eedd"
+checksum = "2fff2a6927b3bb87f9595d67196a70493f627687a71d87a0d692242c33f58c11"
 
 [[package]]
 name = "lazy_static"
@@ -34,6 +34,6 @@ dependencies = [
 
 [[package]]
 name = "pkg-config"
-version = "0.3.22"
+version = "0.3.25"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "12295df4f294471248581bc09bef3c38a5e46f1e36d6a37353621a0c6c357e1f"
+checksum = "1df8c4ec4b0627e53bdf214615ad287367e482558cf84b109250b37464dc03ae"
